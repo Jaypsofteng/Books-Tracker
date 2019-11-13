@@ -1,3 +1,6 @@
+## Book-Tracker is a web based digital library management system using JavaScript and REACT.js in the front-end and Rest APIs in the back-end.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
