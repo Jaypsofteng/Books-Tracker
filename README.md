@@ -1,12 +1,12 @@
 ## Book-Tracker is a web based digital library management system using JavaScript and REACT.js in the front-end and Rest APIs in the back-end.
 Main page with all books in user's read-list
-![Main Screen](https://github.com/Jaypsofteng/Books-Tracker/project-snapshots/mainScreen.png)
+![Main Screen](./project-snapshots/mainScreen.png)
 
 Search books 
-![Search Screen](https://github.com/Jaypsofteng/Books-Tracker/project-snapshots/searchScreen.png)
+![Search Screen](./project-snapshots/searchScreen.png)
 
 Add books to user's read-list
-![Select Book](https://github.com/Jaypsofteng/Books-Tracker/project-snapshots/selectOption.png)
+![Select Book](./project-snapshots/selectOption.png)
 ## Available Scripts
 
 In the project directory, you can run:
